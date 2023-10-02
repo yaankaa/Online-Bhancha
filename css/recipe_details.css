@@ -1,0 +1,41 @@
+.recipe__details tr td {
+    font-size: medium;
+}
+
+
+
+/* .recipe__details {
+    float: left;
+}
+
+.video {
+    float: left;
+} */
+
+.rcontainer {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.whole {
+    float: left;
+}
+
+.video {
+    padding-top: 30px;
+    float: right;
+    padding-right: 25%;
+
+}
+
+.video h2 {
+    font-style: italic;
+
+
+}

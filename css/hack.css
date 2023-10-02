@@ -1,0 +1,30 @@
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+.recipes{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 20px;
+}
+.recipes .name{
+    text-decoration: underline;
+    color: black;
+    
+}
+.recipes .description{
+    max-width: 100%;
+    color: black;
+    font-weight: lighter;
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+    line-height: 2rem;
+    font-size: 1rem;
+   
+}
+.recipes .name h2{
+    font-family: 'Poppins', sans-serif;
+}

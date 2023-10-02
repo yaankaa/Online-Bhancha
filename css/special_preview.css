@@ -1,0 +1,36 @@
+.recipe__details tr td {
+    font-size: medium;
+}
+
+body {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.rcontainer {
+    max-width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-top: 5%;
+    margin-left: 30%;
+    background-color: #ccdcd1;
+}
+
+.recipe__details {
+
+
+    padding-left: 25%;
+}
+
+.image {
+    float: left;
+
+}
+
+.desc {
+    float: right;
+
+}
